@@ -5,7 +5,7 @@
 - **Theme Switching**: Users can switch between light and dark themes to suit their preferences.
 - **Home Screen**: The main screen where users are able to see their cards and bills.
 - **Settings Screen**: Allows users to customize their app experience like their prefered language, theme, etc.
-- **My Cards Screen**: This allow the user to access all the cards the user has used.
+- **My Cards Screen**:This allow the user to access all the cards the user has used.
 - **Statistics Screen**: This screen provide all the accounts transactions made with each card. 
 - **Custom Components**: The app uses custom components throughout to provide a unique user experience.
 
@@ -26,19 +26,19 @@ The default theme color for this app is white, and the other theme color is blac
    # Before
 
 
-![The home screen before turning on the theme color toggle](MsApp/images/home_white.png)
+![alt text](image-2.png)
 - The Home Page
 
 
-![The settings screen before turning on the theme color toggle](MsApp/images/settings_white.png)
+![alt text](image-3.png)
 - The Settings Page
 
 
 
    # After
-![The home screen after turning on the theme color toggle](MsApp/images/home_black.png)
+![alt text](image-4.png)
 - The Home Page
 
 
-![The settings screen after turning on the theme color toggle](MsApp/images/settings_black.png)
+!![alt text](image-5.png)
 - The Settings Page
